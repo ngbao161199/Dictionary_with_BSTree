@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528516629 source:/home/karma/Documents/c++/Dictionary/main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540637422 source:b:\bai tap c++\dictionary\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
